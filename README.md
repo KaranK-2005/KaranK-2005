@@ -27,3 +27,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karank-2005&show_icons=true&locale=en&layout=compact" alt="karank-2005" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karank-2005&" alt="karank-2005" /></p>
+
+---
+
+## 🐍 Contribution Graph
+
+![GitHub Contribution Snake](https://github.com/KaranK-2005/KaranK-2005/blob/output/github-contribution-grid-snake.svg)
