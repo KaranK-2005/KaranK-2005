@@ -32,4 +32,4 @@
 
 ## 🐍 Contribution Graph
 
-![GitHub Contribution Snake](https://github.com/KaranK-2005/KaranK-2005/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/KaranK-2005/KaranK-2005/output/github-contribution-grid-snake.svg)
